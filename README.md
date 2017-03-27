@@ -1,2 +1,2 @@
-# single_header
+# singlify.py
 Python script which creates a single header from multiple C/C++ files.
